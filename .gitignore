@@ -4,3 +4,4 @@
 #environment files and nodemodule
 .env
 node_modules
+.eslintrc.json
