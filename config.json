@@ -1,0 +1,14 @@
+{
+    "prefix": "!",
+    "regions": {
+        "NA": "https://na1.api.riotgames.com",
+        "EUW": "https://euw1.api.riotgames.com",
+        "JP": "https://jp1.api.riotgames.com",
+        "KR": "https://kr.api.riotgames.com",
+        "LA1": "https://la1.api.riotgames.com",
+        "LA2": "https://la2.api.riotgames.com",
+        "OC1": "https://oc1.api.riotgames.com",
+        "TR": "https://tr1.api.riotgames.com",
+        "RU": "https://ru.api.riotgames.com"
+    }
+}
